@@ -74,8 +74,6 @@
     <splash src="resources\ios\splash\Default~iphone.png" width="320" height="480"/>
   </platform>
   <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
-
-  <preference name="phonegap-version" value="3.7.0" />          <!-- all: current version of PhoneGap -->
   <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
   <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
   <preference name="fullscreen"                 value="false" />           <!-- all: hides the status bar at the top of the screen -->
