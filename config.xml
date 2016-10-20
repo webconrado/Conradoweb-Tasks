@@ -7,8 +7,8 @@
       Lucas Conrado
   </author>
   <content src="index.html"/>
-  <plugin name="cordova-plugin-splashscreen" spec="3.2.2" />
-
+  <!--<plugin name="cordova-plugin-splashscreen" spec="3.2.2" />-->
+  <plugin name="br.com.paveisitemas.splashscreen" spec="2.1.1" source="pgb" />
   <access origin="*"/>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
