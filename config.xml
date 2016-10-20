@@ -71,6 +71,7 @@
     <splash src="resources\ios\splash\Default@2x~iphone.png" width="640" height="960"/>
     <splash src="resources\ios\splash\Default~iphone.png" width="320" height="480"/>
   </platform>
+  <preference name="phonegap-version" value="3.7.0" />          <!-- all: current version of PhoneGap -->
   <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
   <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
   <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
